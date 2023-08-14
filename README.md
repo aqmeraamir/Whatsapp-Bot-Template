@@ -8,7 +8,7 @@ A simple template for creating a WhatsApp bot using the whatsapp-web.js nodejs l
 
 Make sure you have the following installed:
 
-- [Node.js](https://nodejs.org/en/download/)
+- <a href="https://nodejs.org/en/download/" target="_blank">Node.js</a>
 - [npm](https://www.npmjs.com/get-npm) (usually comes with Node.js installation)
 
 ### Installation
