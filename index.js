@@ -18,23 +18,11 @@ client.on('qr', qr => {
 
 // When client is ready
 client.on('ready', () => {
-    console.log('dropzbot is on');
+    console.log('Bot is on');
 });
 
 
 // When a message is sent
-client.on('message_create', message => {
-
-  // Check prefix
-  if(!message.body.startsWith(prefix)) return;
-
-  const args = message.body.slice(prefix.length).trim().split(/ +/);
-  const command = args.shift().toLowerCase();
-
-  executeCommand(command, message, args, client)
-
-});
-/*
 client.on('message', message => {
 
   // Check prefix
@@ -46,6 +34,6 @@ client.on('message', message => {
   executeCommand(command, message, args, client)
 
 });
-*/
+
 client.initialize();
  
