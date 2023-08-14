@@ -17,8 +17,8 @@ Make sure you have the following installed:
 1. Clone this repository:
 
   ```bash
-  git clone https://github.com/aqmeraamir/whatsapp-bot-template.git
-  cd whatsapp-bot-template
+  git clone https://github.com/aqmeraamir/Whatsapp-Bot-Template
+  cd WhatsAppp-Bot-Template
   ```
 
   
@@ -31,7 +31,7 @@ npm install
    
 3. Setup prefix:
    
-  * Open **config.json** and configure a prefix for your bot
+Open **config.json** and configure a prefix for your bot
 
 
 
@@ -40,3 +40,7 @@ npm install
   ```bash
   npm start
   ```
+
+### Installation
+
+For more on how to use whatsapp-web.js refer to it's [official documentation](https://docs.wwebjs.dev/)
