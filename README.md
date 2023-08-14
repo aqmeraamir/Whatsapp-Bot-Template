@@ -42,4 +42,5 @@ Open **config.json** and configure a prefix for your bot
 
 ### Installation
 
-For more on how to use whatsapp-web.js refer to it's [official documentation](https://docs.wwebjs.dev/){:target="_blank"}
+For more on how to use whatsapp-web.js refer to it's <a href="https://docs.wwebjs.dev" target="_blank">official documentation</a>
+
