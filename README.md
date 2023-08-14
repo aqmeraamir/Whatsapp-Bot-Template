@@ -17,7 +17,7 @@ Make sure you have the following installed:
 1. Clone this repository:
 
   ```bash
-  git clone https://github.com/your-username/whatsapp-bot-template.git
+  git clone https://github.com/aqmeraamir/whatsapp-bot-template.git
   cd whatsapp-bot-template
   ```
 
