@@ -24,7 +24,7 @@ Make sure you have the following installed:
 2. Install dependencies:
 
   ```bash
-  npm install
+npm install
   ```
    
 3. Setup prefix:
