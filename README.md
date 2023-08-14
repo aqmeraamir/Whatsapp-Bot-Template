@@ -17,20 +17,21 @@ Make sure you have the following installed:
 1. Clone this repository:
 
   ```bash
-   git clone https://github.com/your-username/whatsapp-bot-template.git
-   cd whatsapp-bot-template
+  git clone https://github.com/your-username/whatsapp-bot-template.git
+  cd whatsapp-bot-template
   ```
   
 2. Install dependencies:
 
-   ```bash
-   npm install
-   ```
+  ```bash
+  npm install
+  ```
    
 3. Setup prefix:
   * Open **config.json** and configure a prefix for your bot
 
 4. Start the bot:
+   
   ```bash
   npm start
   ```
