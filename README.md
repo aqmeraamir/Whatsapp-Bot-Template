@@ -1,7 +1,6 @@
 # WhatsApp Bot Template using whatsapp-web.js
 
-A simple template for creating a WhatsApp bot using the whatsapp-web.js nodejs library. This template provides a basic setup for creating and customising your WhatsApp bot.
-
+A simple template for creating a WhatsApp bot using the whatsapp-web.js nodejs library. This template provides a basic setup for creating and customising your WhatsApp bot. This comes with a **command handler** that also has a customizable prefix
 
 ## Getting Started
 
