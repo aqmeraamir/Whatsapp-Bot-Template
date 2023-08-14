@@ -1,12 +1,12 @@
 {
-  "name": "node",
+  "name": "Whatsapp-Bot-Template",
   "version": "1.0.0",
   "description": "node .",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
-  "author": "",
+  "author": "Muhammad Aqmer Aamir",
   "license": "ISC",
   "dependencies": {
     "got": "^13.0.0",
